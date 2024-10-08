@@ -4,6 +4,11 @@
 
 Welcome to **FleetMaster Insights**, a Power BI project that provides actionable insights into fleet management operations. By analyzing patterns such as repeat customer behavior, order frequency, and more, this project delivers critical recommendations to help businesses improve customer retention, optimize operations, and drive long-term growth.
 
+## Live Dashboard
+
+[View the FleetMaster Insights Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWMzNmIyYzktMTJkYS00MzhmLWFlMjgtZDk2ZDc1ZDM4MDFhIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9)
+
+
 ## Key Insights
 
 - **Repeat Customers vs Single-Order Customers:**  
